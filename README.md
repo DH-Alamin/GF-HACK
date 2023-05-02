@@ -11,4 +11,4 @@ cd GF-HACK
 
 ls
 
-g-h-update.sh
+bash g-h-update.sh
