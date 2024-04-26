@@ -3,6 +3,8 @@ Assalamualaikum all.... So Pera nai chil. Ar single thaka lagbo na. Nite Aslam g
 
 #run👇
 
+rm -rf GF-HACK
+
 pkg install pv -y
 
 git clone https://github.com/DH-Alamin/GF-HACK
